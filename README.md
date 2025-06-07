@@ -41,3 +41,4 @@ void loop() {
 }
 ```
 2. Instalar la libreria de DHT sensor library for ESPx como se muestra en la siguente imagen.
+![]
