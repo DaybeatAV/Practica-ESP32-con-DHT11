@@ -61,7 +61,7 @@ Cuando haya funcionado, verás los valores dentro del monitor serial como se mue
 ![](https://github.com/DaybeatAV/Practica-ESP32-con-DHT11/blob/main/Pr%C3%A1ctica%201%20Funcionando.png)
 
 ### Evidencias
-![](https://github.com/DaybeatAV/Practica-ESP32-con-DHT11/blob/main/Pr%C3%A1ctica%201%20Evidencias.mp4)
+https://github.com/DaybeatAV/Practica-ESP32-con-DHT11/blob/main/Pr%C3%A1ctica%201%20Evidencias.mp4
 
 # Créditos
 
