@@ -58,4 +58,7 @@ void loop() {
 ## Resultados
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
-![]
+![](https://github.com/DaybeatAV/Practica-ESP32-con-DHT11/blob/main/Pr%C3%A1ctica%201%20Funcionando.png)
+
+### Evidencias
+![]()
