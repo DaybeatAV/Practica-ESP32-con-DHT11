@@ -8,15 +8,16 @@ La ```Esp32``` la utilizamos en un entorno de adquision de datos, lo cual en est
 ## Material Necesario
 Para realizar esta practica necesitas lo siguiente
 
-- WOKWI
+- [WOKWI](https://wokwi.com/)
 - Tarjeta ESP 32
 - Sensor DHT11
 ## Instrucciones
 ### Requisitos previos
-Para poder usar este repositorio necesitas entrar a la plataforma WOKWI.
+Para poder usar este repositorio necesitas entrar a la plataforma [WOKWI](https://wokwi.com/).
 
 ### Instrucciones de preparación de entorno
 1. Abrir la terminal de programación y colocar la siguente programación:
+
 ```
 #include "DHTesp.h"
 #include <LiquidCrystal_I2C.h>
