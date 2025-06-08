@@ -46,4 +46,16 @@ void loop() {
 ![](https://github.com/DaybeatAV/Practica-ESP32-con-DHT11/blob/main/Librer%C3%ADa%20DHT.png)
 
 3.Hacer la conexion de DHT11 con la ESP32 como se muestra en la siguente imagen.
+![](https://github.com/DaybeatAV/Practica-ESP32-con-DHT11/blob/main/Pr%C3%A1ctica%201%20Conexiones.png)
 
+### Instrucciónes de operación
+1.Iniciar simulador.
+
+2.Visualizar los datos en el monitor serial.
+
+3.Colocar la temperatura y humedad dando doble click al sensor DHT11
+
+## Resultados
+
+Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
+![]
