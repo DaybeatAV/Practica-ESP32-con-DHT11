@@ -67,4 +67,4 @@ Cuando haya funcionado, verás los valores dentro del monitor serial como se mue
 
 Desarrollado por **JOSE DAVID AYALA VILLALBA**
 
--[GITHUB]()
+-[GITHUB](https://github.com/DaybeatAV)
